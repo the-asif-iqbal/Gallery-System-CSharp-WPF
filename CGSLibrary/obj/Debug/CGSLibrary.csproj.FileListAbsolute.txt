@@ -1,0 +1,6 @@
+D:\CDI\Course 5 - Programming Techniques\PRTE2-PROJECT- ASIF IQBAL & HARPREET KAUR\CGSLibrary\bin\Debug\CGSLibrary.dll
+D:\CDI\Course 5 - Programming Techniques\PRTE2-PROJECT- ASIF IQBAL & HARPREET KAUR\CGSLibrary\bin\Debug\CGSLibrary.pdb
+D:\CDI\Course 5 - Programming Techniques\PRTE2-PROJECT- ASIF IQBAL & HARPREET KAUR\CGSLibrary\obj\Debug\CGSLibrary.csprojAssemblyReference.cache
+D:\CDI\Course 5 - Programming Techniques\PRTE2-PROJECT- ASIF IQBAL & HARPREET KAUR\CGSLibrary\obj\Debug\CGSLibrary.csproj.CoreCompileInputs.cache
+D:\CDI\Course 5 - Programming Techniques\PRTE2-PROJECT- ASIF IQBAL & HARPREET KAUR\CGSLibrary\obj\Debug\CGSLibrary.dll
+D:\CDI\Course 5 - Programming Techniques\PRTE2-PROJECT- ASIF IQBAL & HARPREET KAUR\CGSLibrary\obj\Debug\CGSLibrary.pdb

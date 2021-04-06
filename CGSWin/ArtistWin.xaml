@@ -1,0 +1,22 @@
+﻿<Window x:Class="CGSWin.ArtistWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CGSWin"
+        mc:Ignorable="d"
+        Title="ArtistWin" Height="600" Width="800" Background="#FF4C6141">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="316,10,0,0" Text="Artist" FontFamily="Bookman Old Style" FontSize="40" Foreground="White" VerticalAlignment="Top"/>
+        <Label HorizontalAlignment="Left" Margin="74,82,0,0" Content="ID" VerticalAlignment="Top" FontFamily="Bookman Old Style" FontSize="25" Foreground="White" Width="59"/>
+        <Label HorizontalAlignment="Left" Margin="74,139,0,0" Content="First Name" VerticalAlignment="Top" FontFamily="Bookman Old Style" FontSize="25" Foreground="White" Width="152"/>
+        <Label HorizontalAlignment="Left" Margin="74,196,0,0" Content="Last Name" VerticalAlignment="Top" FontFamily="Bookman Old Style" FontSize="25" Foreground="White" Width="152"/>
+        <TextBox HorizontalAlignment="Left" Height="45" Margin="232,82,0,0" VerticalAlignment="Top" Width="300" Name="ID" FontSize="25"/>
+        <TextBox HorizontalAlignment="Left" Height="45" Margin="232,139,0,0" VerticalAlignment="Top" Width="300" Name="artistFirstName" FontSize="25"/>
+        <TextBox HorizontalAlignment="Left" Height="45" Margin="232,196,0,0" VerticalAlignment="Top" Width="300" Name="artistLastName" FontSize="25"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="139,281,0,0" VerticalAlignment="Top" Width="156" Height="45" FontFamily="Bookman Old Style" FontSize="20" x:Name="addCurators" Click="addArtists_Click"/>
+        <Button Content="List" HorizontalAlignment="Left" Margin="335,281,0,0" VerticalAlignment="Top" Width="156" Height="45" FontFamily="Bookman Old Style" FontSize="20" x:Name="listCurators" Click="listArtists_Click"/>
+        <Button Content="Main Menu" HorizontalAlignment="Left" Margin="531,281,0,0" VerticalAlignment="Top" Width="156" Height="45" FontFamily="Bookman Old Style" FontSize="20" x:Name="mainMenu" Click="mainMenu_Click" />
+        <TextBox HorizontalAlignment="Left" Height="200" Margin="22,356,0,0" VerticalAlignment="Top" Width="750" Name="listArtist" HorizontalScrollBarVisibility="Auto"/>
+    </Grid>
+</Window>
