@@ -1,0 +1,12 @@
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\bin\Debug\net5.0\CGSLibrary.deps.json
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\bin\Debug\net5.0\CGSLibrary.dll
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\bin\Debug\net5.0\ref\CGSLibrary.dll
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\bin\Debug\net5.0\CGSLibrary.pdb
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.csprojAssemblyReference.cache
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.AssemblyInfoInputs.cache
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.AssemblyInfo.cs
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.csproj.CoreCompileInputs.cache
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.dll
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\ref\CGSLibrary.dll
+D:\CDI\Course 5 - Programming Techniques\CGSLibrary\obj\Debug\net5.0\CGSLibrary.pdb
